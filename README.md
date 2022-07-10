@@ -1,4 +1,4 @@
-# Emerald Eyes (FFXIV FREE COMPANY)
+# VUE 3
 
 ## Customize configuration
 
