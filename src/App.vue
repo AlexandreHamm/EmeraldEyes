@@ -3,6 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 import Nav from '@/components/Navbar.vue'
 import Title from '@/components/Title.vue'
 import Location from '@/components/Location.vue'
+import Marquee from '@/components/Marquee.vue'
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import Location from '@/components/Location.vue'
   </header>
   <main>
     <RouterView />
+    <Marquee />
   </main>
   <Location />
 </template>
@@ -34,8 +36,9 @@ header{
   align-items: center;
 }
 main{
+  position: relative;
   width: 50%;
-  height: 100%;
+  height: 90%;
   padding-inline: 10rem;
   display: flex;
   align-items: center;
