@@ -1,4 +1,4 @@
-# emeraldeyes
+# Emerald Eyes (FFXIV FREE COMPANY)
 
 ## Customize configuration
 
