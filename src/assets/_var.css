@@ -1,0 +1,30 @@
+/* VARIABLES */
+
+:root{
+    /* COLORS */
+    --dark: #181818;
+    --green: #00c88d;
+    --light: #fff;
+    /* FONTS */
+    --lemon: 'Lemon Milk';
+    --gobold: 'Gobold';
+    --garet: 'Garet';
+}
+
+/* FONTS */
+
+@font-face {
+    font-family: 'Lemon Milk';
+    src: url(./fonts/LEMONMILK-Regular.otf);
+    font-display: swap;
+  }
+@font-face {
+    font-family: 'Gobold';
+    src: url(./fonts/Gobold\ Bold.otf);
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Garet';
+    src: url(./fonts/Garet-Book.ttf);
+    font-display: swap;
+}
